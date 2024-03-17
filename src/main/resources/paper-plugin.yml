@@ -1,0 +1,4 @@
+name: LiderDataAPI
+version: '${project.version}'
+main: com.lidercraft.liderdataapi.LiderDataAPI
+api-version: '1.20'
